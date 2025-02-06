@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Resya Anggara and I'm a student, from SMK AK NUSA BANGSA</h2>
+<h2 align="left">Hi 👋! Nama Saya Resya Anggara Dan Aku Adalah Pelajar, Dari Sekolah SMK AK NUSA BANGSA</h2>
 
 ###
 
@@ -40,6 +40,11 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Resyourbae/count.svg?"  />
+</div>
 
 ###
 # 💫 About Me:
