@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Resya Anggara</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -40,6 +40,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Resyourbae/Resyourbae/output/snake.svg" alt="Snake animation" />
 
 ###
 # 💫 About Me:
