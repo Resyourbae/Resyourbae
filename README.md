@@ -65,8 +65,7 @@ im currently studiying
 ---
 [![](https://visitcount.itsvg.in/api?id=Resyourbae&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<br clear="both">
+br clear="both">
 
 <img src="https://raw.githubusercontent.com/Resyourbae/Resyourbae/output/snake.svg" alt="Snake animation" />
 
