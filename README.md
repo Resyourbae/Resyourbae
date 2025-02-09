@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Nama Saya Anggara || Uhuyy 🔥😋</h2>
+<h2 align="left">Hi 👋! Nama Saya Anggara || Uhuyy 🔥</h2>
 
 ###
 
