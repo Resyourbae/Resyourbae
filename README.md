@@ -1,7 +1,3 @@
-###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Re sya!;Welcome+to+my+GitHub!;Let's+create+something+awesome!)](https://git.io/typing-svg)
-###
-
 <h2 align="left">Hi 👋! Nama Saya Resya Anggara Dan Aku Adalah Pelajar, Dari Sekolah SMK AK NUSA BANGSA</h2>
 
 ###
