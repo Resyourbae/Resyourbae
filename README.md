@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Nama Saya Resya Anggara Dan Aku Adalah Pelajar, Dari Sekolah SMK AK NUSA BANGSA</h2>
+<h2 align="left">Hi 👋! Nama Saya Anggara || Otw jadi Web Development 🔥😋</h2>
 
 ###
 
