@@ -51,7 +51,7 @@
 </div>
 
 ###
-
+<!--
 <br clear="both">
 
 <div align="center">
@@ -61,7 +61,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Resyourbae/Resyourbae/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <picture>
