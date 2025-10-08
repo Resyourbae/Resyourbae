@@ -5,7 +5,7 @@
 <br>
  
 <p align="center">
-  <img width="174" height="191" alt="image" src="images/Resya.jpg">
+  <img width="174" height="191" alt="image" src="images/resya2.jpg">
 </p>
 
 <!-- <div align="center">
