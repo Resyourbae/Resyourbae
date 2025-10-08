@@ -4,7 +4,10 @@
 
 <br>
  
- <img width="174" height="191" alt="image" src="images/Resya.jpg">
+<p align="center">
+  <img width="174" height="191" alt="image" src="images/Resya.jpg">
+</p>
+
 <!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div> -->
